@@ -1,0 +1,1 @@
+ping Home Switch -t
